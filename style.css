@@ -1,0 +1,20 @@
+body {
+    background: pink;
+    text-align: center;
+    font-family: sans-seif;
+}
+
+#title {
+    color: deeppink;
+    font-size: 3rem;
+}
+
+button {
+    background: hotpink;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 20px;
+    font-size: 1rem;
+    cursor: pointer;
+}
